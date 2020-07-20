@@ -1,0 +1,11 @@
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\bin\Debug\MathProblemsExercise.exe.config
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\bin\Debug\MathProblemsExercise.exe
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\bin\Debug\MathProblemsExercise.pdb
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\obj\Debug\MathProblemsExercise.csprojAssemblyReference.cache
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\obj\Debug\MathProblemsExercise.FrmFindVolume.resources
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\obj\Debug\MathProblemsExercise.FrmMathProblems.resources
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\obj\Debug\MathProblemsExercise.Properties.Resources.resources
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\obj\Debug\MathProblemsExercise.csproj.GenerateResource.cache
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\obj\Debug\MathProblemsExercise.csproj.CoreCompileInputs.cache
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\obj\Debug\MathProblemsExercise.exe
+C:\Users\dsparr\source\repos\MathProblemsExercise\MathProblemsExercise\obj\Debug\MathProblemsExercise.pdb
